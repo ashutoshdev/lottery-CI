@@ -1,0 +1,9 @@
+/* Rk Custom Css */
+.bodyrk-back{
+    background:#d2d6de;
+  }
+
+
+  .quizno_box .quiznobox_body li.selected {
+    background:#FFBB00 !important;
+}
